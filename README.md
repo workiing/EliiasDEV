@@ -1,9 +1,8 @@
 ### Willkommen 👋
 
-
-- 🔭 **Ich arbeite derzeit an:**
-- https://PatchBOT.cloud
-- 💬 Fragt mich gerne wenn Ihr fragen habt!
-- 📫 **Erreichen könnt Ihr mich auf Discord:** homework#0410
-- ⚡ **Fun fact:** Ich bin komplett überfordert!
+<center>
+<a href="https://top.gg/bot/868650261256761374">
+  <img src="https://top.gg/api/widget/868650261256761374.svg" alt="Audrey ✘ System" />
+  </a>
+</center><br>
 
